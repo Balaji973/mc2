@@ -82,7 +82,7 @@ else
 ```
 ## Output  :
 
-![on](https://github.com/user-attachments/assets/6e2bed7b-8044-40f0-b55c-e90164156bc2)
+
 
 ![off](https://github.com/user-attachments/assets/24739ace-3aee-4c8a-9ae3-278f813fbfe1)
 
